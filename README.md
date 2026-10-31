@@ -1,6 +1,6 @@
-# For Jaishvi (jassy🎀) 🌸✨
+# For Jaismeen (jaisu🎀) 🌸✨
 
-An interactive secret note and kawaii surprise card crafted for Jaishvi.
+An interactive secret note and kawaii surprise card crafted for Jaismeen.
 
 ### 🌐 Live Link
 👉 **[https://zinesuraj603-oss.github.io/for-jaishvi/](https://zinesuraj603-oss.github.io/for-jaishvi/)**
@@ -8,6 +8,8 @@ An interactive secret note and kawaii surprise card crafted for Jaishvi.
 ### 📱 Features
 - Interactive 12-step suspense and teasing flow
 - Animated Kawaii Chibi mascot with reactive mood expressions (shy, side-eye, pleading, blushing, troll)
+- Live Heart Rate (BPM) counter tracking the fake suspense in real-time
+- Mobile Haptic feedback & celebratory confetti cannon
 - Runaway dodge buttons and custom sound effects (synthesizer audio engine + bgm)
-- Official Property Receipt certificate with live timestamp
-- Pure Kawaii SVG stationery design
+- Official Jaisu🎀 Property Receipt certificate with live timestamp
+- Pure Kawaii SVG stationery design (Peaches & Strawberry Cream)
