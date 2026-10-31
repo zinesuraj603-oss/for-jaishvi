@@ -3,7 +3,7 @@
 An interactive secret note and kawaii surprise card crafted for Jaismeen.
 
 ### 🌐 Live Link
-👉 **[https://zinesuraj603-oss.github.io/for-jaishvi/](https://zinesuraj603-oss.github.io/for-jaishvi/)**
+👉 **[https://zinesuraj603-oss.github.io/for-jaismeen/](https://zinesuraj603-oss.github.io/for-jaismeen/)**
 
 ### 📱 Features
 - Interactive 12-step suspense and teasing flow
